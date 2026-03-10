@@ -8,8 +8,8 @@
       "args": [],
       "stopAtEntry": false,
       "externalConsole": true,
-      "cwd": "c:/Users/gabri/OneDrive/documentos/Codewars/arrayOfIntegers",
-      "program": "c:/Users/gabri/OneDrive/documentos/Codewars/arrayOfIntegers/build/Debug/outDebug",
+      "cwd": "c:/Users/gabri/OneDrive/documentos/Codewars",
+      "program": "c:/Users/gabri/OneDrive/documentos/Codewars/build/Debug/outDebug",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
       "setupCommands": [
