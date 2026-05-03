@@ -1,6 +1,7 @@
 //complete the sentence that takes two integers and return an array of all integers between the input parameters, including them.
 
 package kata
+package main
 
 func Between(a, b int) []int {
 	result := make([]int, b-a +1)
