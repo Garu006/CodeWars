@@ -1,6 +1,6 @@
-// i need a function that can transform a string into a number. What ways of achiving this do you know?
-// note: Dont worry, all inputs will be be strings, and very string is a perfect valid representation of an integral number.
-package main
+// Convert a string input to an integer using common methods in Go.
+// All inputs are assumed to be valid integer strings.
+package main 
 package kata
 
 import (
